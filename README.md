@@ -8,6 +8,6 @@ File includes Java code for the following basic string utilities:
 4. Reversing the entire string, then capitalizing the first letter of each word.
 5. Removing the first and last character of a string.
 6. Inverting the casing of a string (i.e "HAPpy daNCE" returns "hapPY DAnce").
-7. Individual methods for detemining whether a string contins entirely alpha, numeric or special characters.
+7. Individual methods for detemining whether a string contains entirely alpha, numeric or special characters.
 
 Tests for each method are included.
